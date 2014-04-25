@@ -1,4 +1,4 @@
-http://markdown.graphics
+Markdown Graphics Website
 =================
 
-Markdown Graphics website
+http://markdown.graphics/
