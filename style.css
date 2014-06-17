@@ -59,3 +59,11 @@ a:hover {
 .link {
     margin-bottom: 13px;
 }
+
+#shuttleworth {
+    position: absolute;
+    left: 60px;
+    top: 480px;
+    width: 180px;
+    height: auto;
+}
